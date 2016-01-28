@@ -1,7 +1,7 @@
 package alp1.examples;
 
 /**
- * Cost: init(N), union(N), find(1)
+ * Cost: init(N), union(N^2), find(1)
  * @author andrey
  */
 public class L1QuickFindUF {

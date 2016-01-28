@@ -2,7 +2,7 @@ package alp1.examples;
 
 /**
  * Cost (base): init(N), union(lgN), find(lgN)
- * Cost (A1): init(N), union(N+Mlg*N), find(N+MlgN)
+ * Cost (A1): init(N), union(N+M*lg*N), find(N+M*lgN)
  * @author andrey
  */
 public class L1WeightedQuickUnionUF {
